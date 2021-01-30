@@ -1,4 +1,4 @@
-## [![header](./images/header.png)](https://wheresteve.codes)
+## [![header](./images/keyboards.jpg)](https://wheresteve.codes)
 
 <p align='center'>
 <a href="https://dev.to/sa_lamoureux"><img height="40" src="./images/dev.png"></a>&nbsp;&nbsp;
