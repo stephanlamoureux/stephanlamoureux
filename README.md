@@ -8,7 +8,7 @@
 
 <h2 align="center">Hello there! 👋 My name is Steve.</h2>
 <p align="center">I'm a Front End Web Developer from Providence, RI.</p>
-<p align="center">I am currently attending the <a href="https://vetswhocode.io" target="_blank">#VetsWhoCode</a> bootcamp where we focus on learning the JAMstack. You can see the full curriculum [here](https://github.com/Vets-Who-Code/Curriculum).
+<p align="center">I am currently attending the <a href="https://vetswhocode.io" target="_blank">#VetsWhoCode</a> bootcamp where we focus on learning the JAMstack. You can see the full curriculum <a href="https://github.com/Vets-Who-Code/Curriculum" target="_blank">here</a>.
 When I'm not developing and building things, you can find me on Youtube learning, writing an article on one of my blog(or company blog), watching anime, daydreaming actionpacked dreams where i am the MC or on my laptop gaming. But most of my days are spent working on projects(my own and my clients) while listening to LoFi, ChillHop and/or Rainy Jazz, Studying or watching anime</p>
 
 ### 📫 Where to find me
