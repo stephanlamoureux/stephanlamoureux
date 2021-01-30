@@ -21,4 +21,5 @@
 
 <hr>
 <p align="center">
+  
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=slamoureux&show_icons=true&theme=tokyonight)</p>
