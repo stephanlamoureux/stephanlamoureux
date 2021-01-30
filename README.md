@@ -9,9 +9,9 @@
 
 <h2 align="center">Hey there! <img src="./images/waving_hand.gif" width="32px"> My name is Steve.</h2>
 <p align="center">I'm a Front End Web Developer from Providence, RI.</p>
-<p>I am currently attending the <a href="https://vetswhocode.io" target="_blank">#VetsWhoCode</a> bootcamp where we focus on utilizing the JAMstack. You can find the full curriculum <a href="https://github.com/Vets-Who-Code/Curriculum" target="_blank">here</a>.</p>
+<p>Currently, I attending the <a href="https://vetswhocode.io" target="_blank">#VetsWhoCode</a> bootcamp where we focus on utilizing the JAMstack. You can find the full curriculum <a href="https://github.com/Vets-Who-Code/Curriculum" target="_blank">here</a>.</p>
 <p>I am an Army and Air Force veteran with over ten years of service and a lifelong computer nerd. Learning new things is my passion, as I believe once you stop learning, you start dying! <img src="./images/man_zombie.gif" width="32px"></p>
-
+<br>
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/sa_lamoureux) 🐤
 - [LinkedIn](https://linkedin.com/in/steven-lamoureux) 💼
