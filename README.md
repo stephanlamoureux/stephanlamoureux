@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am currently attending the [#VetsWhoCode](https://vetswhocode.io) bootcamp. 
+I am currently attending the <a href="https://vetswhocode.io" target="_blank">#VetsWhoCode] bootcamp. 
