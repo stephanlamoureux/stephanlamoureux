@@ -22,8 +22,5 @@
 <hr>
 
 <p align="center">
-  
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=slamoureux&show_icons=true&theme=tokyonight)
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  
+<img src="https://github-readme-stats.vercel.app/api?username=slamoureuxv&show_icons=true&count_private=true&theme=tokyonight" alt="Github Stats"/>
 </p>
