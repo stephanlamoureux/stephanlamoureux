@@ -20,4 +20,8 @@ When I'm not developing and building things, you can find me on Youtube learning
 - [CodePen](https://www.codepen.io/s-lamoureux/) 💻
 - [Website](https://www.wheresteve.codes) 🔗
 
+
+
+
+
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
