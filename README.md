@@ -20,6 +20,7 @@
 - [Website](https://www.wheresteve.codes) 🔗
 
 <hr>
-<p align="center">
-  
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=slamoureux&show_icons=true&theme=tokyonight)</p>
+
+![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=slamoureux&show_icons=true&theme=tokyonight)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=slamoureux&repo=github-readme-stats" />
