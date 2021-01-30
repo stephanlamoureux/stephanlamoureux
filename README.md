@@ -22,7 +22,7 @@
 <hr>
 
 <p align="center">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slamoureux&layout=compact&theme=tokyonight" alt="Top Languages"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slamoureux&theme=tokyonight" alt="Top Languages"/>
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=slamoureux&show_icons=true&count_private=true&theme=tokyonight" alt="Github Stats"/>
 </p>
