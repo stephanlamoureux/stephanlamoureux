@@ -20,4 +20,4 @@
 - [CodePen](https://www.codepen.io/s-lamoureux/) 💻
 - [Website](https://www.wheresteve.codes) 🔗
 
-![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
+![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=slamoureux&show_icons=true&theme=radical)
