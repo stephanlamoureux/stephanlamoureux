@@ -19,8 +19,10 @@ I am currently attending the <a href="https://vetswhocode.io" target="_blank">#V
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/sa_lamoureux) 🐤
-- [LinkedIn](https://linkedin.com/in/slamoureux) 👨💼
-- [Website](https://wheresteve.codes) 💻🔗
+- [LinkedIn](https://linkedin.com/in/steven-lamoureux) 💼
+- [Blog](https://dev.to/sa_lamoureux) 📝
+- [freeCodeCamp](https://www.freecodecamp.org/slamoureux) (🔥)
+- [Website](https://wheresteve.codes) 🔗
 
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=stephenajulu&show_icons=true&theme=radical)
