@@ -1,9 +1,9 @@
 ## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/images/edited%20header.png)](https://stephenajulu.com)
 
 <p align='center'>
-<a href="https://dev.to/stephenajulu"><img height="40" src="./images/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="40" src="./images/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/stephenajulu/"><img height="40" src="./images/linkedin.png"></a>
+<a href="https://dev.to/sa_lamoureux"><img height="40" src="./images/dev.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/sa_lamoureux"><img height="40" src="./images/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/steven-lamoureux/"><img height="40" src="./images/linkedin.png"></a>
 </p>
 
 <h2 align="center">Hello there! 👋 My name is Steve.</h2>
