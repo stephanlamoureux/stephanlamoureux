@@ -1,4 +1,4 @@
-## [![stephen ajulu's header](https://github.com/stephenajulu/stephenajulu/blob/master/images/edited%20header.png)](https://stephenajulu.com)
+## [![header]()](https://wheresteve.codes)
 
 <p align='center'>
 <a href="https://dev.to/sa_lamoureux"><img height="40" src="./images/dev.png"></a>&nbsp;&nbsp;
