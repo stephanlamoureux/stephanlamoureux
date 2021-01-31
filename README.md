@@ -22,5 +22,5 @@
 <hr>
 <p align="center">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=slamoureux&langs_count=3&theme=buefy" height="200px" alt="Top Languages"/>
-<img src="https://github-readme-stats.vercel.app/api?username=slamoureux&show_icons=true&count_private=true&theme=buefy" alt="Github Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=slamoureux&show_icons=true&count_private=true&theme=buefy" height="200px" alt="Github Stats"/>
 </p>
