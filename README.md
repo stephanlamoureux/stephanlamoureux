@@ -18,7 +18,7 @@
 - [Blog](https://dev.to/sa_lamoureux) 📝
 - [freeCodeCamp](https://www.freecodecamp.org/slamoureux) (🔥)
 - [CodePen](https://www.codepen.io/s-lamoureux/) 💻
-- [Website](https://www.wheresteve.codes) 🔗
+- [Website](http://wheresteve.codes) 🔗
 
 <hr>
 <p align="center">
