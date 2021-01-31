@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./images/1.png" alt="Memoji Icon"></p>
+<img src="./images/laptop.png" alt="Memoji Icon"></p>
 
 <p align='center'>
 <a href="https://dev.to/sa_lamoureux"><img height="40" src="./images/dev.png" alt="dev.to icon"></a>&nbsp;&nbsp;
