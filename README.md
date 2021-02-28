@@ -17,7 +17,7 @@
 - [LinkedIn](https://linkedin.com/in/steven-lamoureux) 💼
 - [Blog](https://dev.to/slamoureux) 📝
 - [freeCodeCamp](https://www.freecodecamp.org/slamoureux) (🔥)
-- [CodePen](https://www.codepen.io/s-lamoureux/) 💻
+- [CodePen](https://codepen.io/SteveLamoureux/) 💻
 - [Website](http://wheresteve.codes) 🔗
 
 <hr>
