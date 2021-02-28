@@ -2,7 +2,7 @@
 <img src="./images/laptop.png" alt="Memoji Icon"></p>
 
 <p align='center'>
-<a href="https://dev.to/sa_lamoureux"><img height="40" src="./images/dev.png" alt="dev.to icon"></a>&nbsp;&nbsp;
+<a href="https://dev.to/slamoureux"><img height="40" src="./images/dev.png" alt="dev.to icon"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/sa_lamoureux"><img height="40" src="./images/twitter.png" alt="twitter icon"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/steven-lamoureux/"><img height="40" src="./images/linkedin.png" alt="linkedin icon"></a>
 </p>
@@ -15,7 +15,7 @@
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/sa_lamoureux) 🐤
 - [LinkedIn](https://linkedin.com/in/steven-lamoureux) 💼
-- [Blog](https://dev.to/sa_lamoureux) 📝
+- [Blog](https://dev.to/slamoureux) 📝
 - [freeCodeCamp](https://www.freecodecamp.org/slamoureux) (🔥)
 - [CodePen](https://www.codepen.io/s-lamoureux/) 💻
 - [Website](http://wheresteve.codes) 🔗
