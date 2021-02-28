@@ -14,10 +14,10 @@
 
 ### 📫 Where to find me
 - [Twitter](https://twitter.com/sa_lamoureux) 🐤
-- [LinkedIn](https://linkedin.com/in/steven-lamoureux) 💼
-- [Blog](https://dev.to/slamoureux) 📝
+- [LinkedIn](www.linkedin.com/in/stephanlamoureux) 💼
+- [Blog](https://dev.to/stephanlamoureux) 📝
 - [freeCodeCamp](https://www.freecodecamp.org/slamoureux) (🔥)
-- [CodePen](https://codepen.io/SteveLamoureux/) 💻
+- [CodePen](https://codepen.io/stephanlamoureux) 💻
 - [Website](http://wheresteve.codes) 🔗
 
 <hr>
