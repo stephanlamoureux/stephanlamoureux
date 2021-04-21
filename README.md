@@ -23,6 +23,6 @@
 <hr>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=stephanlamoureux&show_icons=true&count_private=true&theme=dracula" height="200px" alt="Github Stats"/>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=stephanlamoureux&langs_count=3&theme=dracula" height="200px" alt="Top Languages"/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stephanlamoureux&theme=dracula)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanlamoureux&langs_count=3&theme=dracula" height="200px" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=stephanlamoureux&theme=dracula" height="200px" alt="github stats"/>
 </p>
