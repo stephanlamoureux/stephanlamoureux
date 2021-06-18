@@ -13,12 +13,12 @@
 <p>I've been a lifelong computer nerd ever since I got my first computer at eight years old -- running Windows 95. Learning new things is my passion, so I always have more hobbies than I have time for because once you stop learning, you start dying ✌</p>
 
 ### 📫 Where to find me
+- [Portfolio](http://wheresteve.codes) 🔗
 - [Twitter](https://twitter.com/sa_lamoureux) 🐤
 - [LinkedIn](www.linkedin.com/in/stephanlamoureux) 💼
 - [Blog](https://dev.to/stephanlamoureux) 📝
-- [freeCodeCamp](https://www.freecodecamp.org/stephanlamoureux) (🔥)
 - [CodePen](https://codepen.io/stephanlamoureux) 💻
-- [Website](http://wheresteve.codes) 🔗
+- [freeCodeCamp](https://www.freecodecamp.org/stephanlamoureux) (🔥)
 
 <hr>
 <p align="center">
