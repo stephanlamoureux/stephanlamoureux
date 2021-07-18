@@ -24,6 +24,7 @@
 - [Blog](https://dev.to/stephanlamoureux) 📝
 - [CodePen](https://codepen.io/stephanlamoureux) 💻
 - [freeCodeCamp](https://www.freecodecamp.org/stephanlamoureux) (🔥)
+- [E-Mail](mailto:sa.lamoureux@gmail.com) ✉️
 
 <hr />
 
