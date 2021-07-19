@@ -13,7 +13,7 @@
   
 <p>I'm also an Army and Air Force veteran with over ten years of service 🇺🇸</p>
 
-<p>I gained most of my coding experience through an <i>incredible</i> nonprofit called <img src="./images/vwc.png" width="15px" alt="VetsWhoCode Logo" /><a href="https://www.vetswhocode.io">VetsWhoCode</a>.</p>
+<p>I built my coding foundations through an <i>incredible</i> nonprofit called <img src="./images/vwc.png" width="15px" alt="VetsWhoCode Logo" /><a href="https://www.vetswhocode.io">VetsWhoCode</a>.</p>
 
 <p>Learning new things is my passion, so I always have more hobbies than I have time -- because once you stop learning, you start dying ✌</p>
 
