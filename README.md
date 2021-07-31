@@ -23,7 +23,6 @@
 - [LinkedIn](www.linkedin.com/in/stephanlamoureux) 💼
 - [Blog](https://dev.to/stephanlamoureux) 📝
 - [CodePen](https://codepen.io/stephanlamoureux) 💻
-- [freeCodeCamp](https://www.freecodecamp.org/stephanlamoureux) (🔥)
 - [Email](mailto:sa.lamoureux@gmail.com) 💌
 
 <hr />
