@@ -10,6 +10,7 @@
 <h2 align="center">Hey there! <img src="./images/waving_hand.gif" width="32px" alt="waving hand" /> My name is Steve.</h2>
 <p align="center">I'm a Front End Web Developer from Providence, RI.</p>
 
+<div align="center">
 ### 📫 Where to find me
 - [Portfolio](http://wheresteve.codes) 🔗
 - [Twitter](https://twitter.com/sa_lamoureux) 🐤
@@ -17,6 +18,7 @@
 - [Blog](https://dev.to/stephanlamoureux) 📝
 - [CodePen](https://codepen.io/stephanlamoureux) 💻
 - [Email](mailto:sa.lamoureux@gmail.com) 💌
+</div>
 
 <hr />
 
