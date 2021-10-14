@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center">Hey there! <img src="./images/waving_hand.gif" width="32px" alt="waving hand" /> My name is Steve.</h2>
-<p align="center">I'm a Front End Web Developer from Providence, RI.</p>
+<p align="center">I'm a Developer from Providence, RI.</p>
 
 ### 📫 Where to find me </h3>
 - [Portfolio](http://wheresteve.codes) 🔗
