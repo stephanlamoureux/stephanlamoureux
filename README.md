@@ -10,14 +10,13 @@
 <h2 align="center">Hey there! <img src="./images/waving_hand.gif" width="32px" alt="waving hand" /> My name is Steve.</h2>
 <p align="center">I'm a Front End Web Developer from Providence, RI.</p>
 
-<h2 align="center"> 📫 Where to find me </h2>
+<h3 align="center"> 📫 Where to find me </h2>
 - [Portfolio](http://wheresteve.codes) 🔗
 - [Twitter](https://twitter.com/sa_lamoureux) 🐤
 - [LinkedIn](www.linkedin.com/in/stephanlamoureux) 💼
 - [Blog](https://dev.to/stephanlamoureux) 📝
 - [CodePen](https://codepen.io/stephanlamoureux) 💻
 - [Email](mailto:sa.lamoureux@gmail.com) 💌
-</div>
 
 <hr />
 
