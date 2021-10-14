@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/steven-lamoureux/"><img height="40" src="./images/linkedin.png" alt="linkedin icon" /></a>
 </p>
 
-<h2 align="center">Hey there! <img src="./images/waving_hand.gif" width="32px" alt="waving hand" />I'm Steve.</h2>
+<h2 align="center">Hey there! <img src="./images/waving_hand.gif" width="32px" alt="waving hand" /> I'm Steve.</h2>
 <p align="center">I'm a Developer from Providence, RI.</p>
 
 ### 📫 Where to find me </h3>
