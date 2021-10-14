@@ -9,13 +9,6 @@
 
 <h2 align="center">Hey there! <img src="./images/waving_hand.gif" width="32px" alt="waving hand" /> My name is Steve.</h2>
 <p align="center">I'm a Front End Web Developer from Providence, RI.</p>
-<p>I love <strong>all</strong> things web. I am currently diving into the React ecosystem, but as long as I'm creating with code, I'm happy to learn whatever is necessary to get the job done :octocat:
-  
-<p>I'm also an Army and Air Force veteran with over ten years of service 🇺🇸</p>
-
-<p>I built my coding foundations through an <em>incredible</em> nonprofit called <img src="./images/vwc.png" width="15px" alt="VetsWhoCode Logo" /><a href="https://www.vetswhocode.io">VetsWhoCode</a>.</p>
-
-<p>Learning new things is my passion, so I always have more hobbies than I have time -- because once you stop learning, you start dying ✌</p>
 
 ### 📫 Where to find me
 - [Portfolio](http://wheresteve.codes) 🔗
