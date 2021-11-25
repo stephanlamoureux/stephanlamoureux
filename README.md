@@ -32,5 +32,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stephanlamoureux" height="200px" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=stephanlamoureux&theme=dracula&hide_border=true" height="200px" alt="Wakatime Stats" />
 </p>
