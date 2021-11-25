@@ -30,3 +30,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=stephanlamoureux&show_icons=true&count_private=true&theme=dracula&hide_border=true&count_private=true" height="200px" alt="Github Stats" />
 </p>
+
+<p align="center>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" height="200px" alt="Wakatime Stats" />
+</p>
