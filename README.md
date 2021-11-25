@@ -21,7 +21,7 @@
 <hr />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanlamoureux&hide=scss,less&langs_count=3&theme=dracula&layout=compact" height="200px" alt="Top Languages" /></p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephanlamoureux&hide=scss,less&langs_count=6&theme=dracula&layout=compact" height="200px" alt="Top Languages" /></p>
   
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=stephanlamoureux&theme=dracula" height="200px" alt="github stats" />
