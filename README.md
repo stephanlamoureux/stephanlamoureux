@@ -28,5 +28,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stephanlamoureux&show_icons=true&count_private=true&theme=dracula&show_icons=true" height="200px" alt="Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stephanlamoureux&show_icons=true&count_private=true&theme=dracula&show_icons=true&include_all_commits=true" height="200px" alt="Github Stats" />
 </p>
