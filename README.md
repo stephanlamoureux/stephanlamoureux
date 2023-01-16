@@ -16,6 +16,7 @@
 - [LinkedIn](www.linkedin.com/in/stephanlamoureux) 💼
 - [Blog](https://dev.to/stephanlamoureux) 📝
 - [CodePen](https://codepen.io/stephanlamoureux) 💻
+- [Replit](https://replit.com/@SteveLamoureux) 🧑‍💻
 - [Email](mailto:sa.lamoureux@gmail.com) 💌
 
 <hr />
