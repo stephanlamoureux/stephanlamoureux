@@ -17,6 +17,7 @@
 - [Blog](https://dev.to/stephanlamoureux) 📝
 - [CodePen](https://codepen.io/stephanlamoureux) 💻
 - [Replit](https://replit.com/@SteveLamoureux) 🧑‍💻
+- [freeCodeCamp](https://www.freecodecamp.org/stephanlamoureux) 🔥
 - [Email](mailto:sa.lamoureux@gmail.com) 💌
 
 <hr />
