@@ -13,7 +13,7 @@
 ### 📫 Where to find me </h3>
 - [Portfolio](http://wheresteve.codes) 🔗
 - [Twitter](https://twitter.com/sa_lamoureux) 🐤
-- [LinkedIn](www.linkedin.com/in/stephanlamoureux) 💼
+- [LinkedIn](https://linkedin.com/in/stephanlamoureux) 💼
 - [Blog](https://dev.to/stephanlamoureux) 📝
 - [CodePen](https://codepen.io/stephanlamoureux) 💻
 - [Replit](https://replit.com/@SteveLamoureux) 🧑‍💻
