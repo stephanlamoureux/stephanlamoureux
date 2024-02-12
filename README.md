@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./images/lego-me1.png" alt="Lego version of me" width="50%" /></p>
+<img src="./images/lego-me3.png" alt="Lego version of me" width="50%" /></p>
 
 <p align='center'>
 <a href="https://dev.to/slamoureux"><img height="40" src="./images/dev.png" alt="dev.to icon" /></a>&nbsp;&nbsp;
